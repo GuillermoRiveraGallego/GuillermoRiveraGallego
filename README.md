@@ -28,22 +28,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB
 </td>
 <td align="center" width="100">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/><br>Tailwind
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50"/><br>Tailwind
 </td>
+
 <td align="center" width="100">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
 </td>
 </tr>
 </table>
-
----
-
-## 🚀 Proyectos Destacados
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [**FutsalWear**](#) | Tienda online especializada en ropa y calzado para fútbol sala. | Laravel, PHP, MySQL, CSS |
-| [**Git4BIM**](#) | Plataforma para conectar Autodesk Construction Cloud con Power BI. | React, Tailwind, ShadCN |
-| [**Catastro Hoteles**](#) | Dashboard con gráficas y filtrado de datos del Catastro español. | React, Recharts, API REST |
 
 ---
 

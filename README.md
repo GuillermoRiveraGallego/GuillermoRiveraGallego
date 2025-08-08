@@ -16,8 +16,9 @@ Me apasiona crear interfaces modernas, optimizadas y con una buena experiencia d
 ---
 
 ## 📈 Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guillermorivera&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillermorivera&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillermoRiveraGallego&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoRiveraGallego&layout=compact&theme=dark&hide_border=true)
+
 
 ---
 

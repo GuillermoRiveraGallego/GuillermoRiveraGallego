@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="./banner.png" alt="Banner de Guillermo" width="100%">
-</p>
 
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#38B2AC;">Guillermo</span></h1>
 <p align="center">
@@ -14,7 +10,6 @@
 ## 💡 Sobre mí
 - 🚀 Actualmente mejorando mis skills en **JavaScript avanzado** y **arquitectura de aplicaciones**.
 - 🎯 Buscando siempre optimizar código y experiencia de usuario.
-- ⚽ Fan del fútbol sala y creador de proyectos personales como **FutsalWear**.
 - 🎨 Amante del diseño minimalista pero funcional.
 
 ---

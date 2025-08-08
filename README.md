@@ -43,7 +43,7 @@
 ## 📫 Contacto
 <p align="center">
  
- <p align="center">
+ <p align="left">
   <a href="mailto:guillermoriveragallego@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="30" style="background:#38B2AC; border-radius:6px; padding:4px;" />
   </a>

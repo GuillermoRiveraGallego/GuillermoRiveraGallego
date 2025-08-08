@@ -1,23 +1,62 @@
+<!-- Banner -->
+<p align="center">
+  <img src="./banner.png" alt="Banner de Guillermo" width="100%">
+</p>
 
-
-# 👋 Hola, soy Guillermo
-
-Desarrollador web especializado en **React**, **Node.js** y **MongoDB**.  
-Me apasiona crear interfaces modernas, optimizadas y con una buena experiencia de usuario.
+<h1 align="center">👋 ¡Hola! Soy <span style="color:#38B2AC;">Guillermo</span></h1>
+<p align="center">
+  <b>Desarrollador web full stack</b> especializado en <b>React</b>, <b>Node.js</b>, <b>MongoDB</b> y <b>Tailwind CSS</b>.<br>
+  Me encanta transformar ideas en interfaces modernas, rápidas y funcionales.
+</p>
 
 ---
 
-## 🚀 Tecnologías
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 💡 Sobre mí
+- 🚀 Actualmente mejorando mis skills en **JavaScript avanzado** y **arquitectura de aplicaciones**.
+- 🎯 Buscando siempre optimizar código y experiencia de usuario.
+- ⚽ Fan del fútbol sala y creador de proyectos personales como **FutsalWear**.
+- 🎨 Amante del diseño minimalista pero funcional.
+
+---
+
+## 🛠 Stack Tecnológico
+
+<table align="center">
+<tr>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React
+</td>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br>Node.js
+</td>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB
+</td>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/><br>Tailwind
+</td>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Proyectos Destacados
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [**FutsalWear**](#) | Tienda online especializada en ropa y calzado para fútbol sala. | Laravel, PHP, MySQL, CSS |
+| [**Git4BIM**](#) | Plataforma para conectar Autodesk Construction Cloud con Power BI. | React, Tailwind, ShadCN |
+| [**Catastro Hoteles**](#) | Dashboard con gráficas y filtrado de datos del Catastro español. | React, Recharts, API REST |
 
 ---
 
 ## 📫 Contacto
-- **Email:** [guillermoriveragallego@gmail.com](mailto:guillermoriveragallego@gmail.com)
+<p align="center">
+  <a href="mailto:guillermoriveragallego@gmail.com">
+    <img src="https://img.shields.io/badge/Email-38B2AC?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
 

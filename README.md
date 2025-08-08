@@ -1,3 +1,6 @@
+<!-- Banner -->
+![Banner](./banner.png) <!-- Reemplaza con la ruta de tu banner -->
+
 # 👋 Hola, soy Guillermo
 
 Desarrollador web especializado en **React**, **Node.js** y **MongoDB**.  
@@ -15,18 +18,6 @@ Me apasiona crear interfaces modernas, optimizadas y con una buena experiencia d
 
 ---
 
-## 📈 Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillermoRiveraGallego&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoRiveraGallego&layout=compact&theme=dark&hide_border=true)
-
-
-
----
-
 ## 📫 Contacto
 - **Email:** [guillermoriveragallego@gmail.com](mailto:guillermoriveragallego@gmail.com)
-- **LinkedIn:** *(añádelo si quieres que lo ponga aquí)*
 
----
-
-> _"El código limpio es aquel que deja una historia clara detrás de cada línea."_  

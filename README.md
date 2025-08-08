@@ -1,5 +1,4 @@
-<!-- Banner -->
-![Banner](./banner) <!-- Reemplaza con la ruta de tu banner -->
+
 
 # 👋 Hola, soy Guillermo
 

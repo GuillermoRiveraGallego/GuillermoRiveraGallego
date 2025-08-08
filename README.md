@@ -15,13 +15,6 @@ Me apasiona crear interfaces modernas, optimizadas y con una buena experiencia d
 
 ---
 
-## 📈 Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillermoRiveraGallego&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoRiveraGallego&layout=compact&theme=dark&hide_border=true)
-
-
----
-
 ## 📫 Contacto
 - **Email:** [guillermoriveragallego@gmail.com](mailto:guillermoriveragallego@gmail.com)
 - **LinkedIn:** *(añádelo si quieres que lo ponga aquí)*

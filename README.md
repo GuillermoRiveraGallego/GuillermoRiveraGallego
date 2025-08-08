@@ -42,9 +42,12 @@
 
 ## 📫 Contacto
 <p align="center">
+  <p align="center">
   <a href="mailto:guillermoriveragallego@gmail.com">
-    <img src="https://img.shields.io/badge/Email-38B2AC?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Envelope_font_awesome.svg" width="30" />
   </a>
+</p>
+
 </p>
 
 

@@ -1,5 +1,11 @@
 
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#38B2AC;">Guillermo</span></h1>
+<h1 align="center"><h1 align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="none" stroke="#38B2AC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-hand">
+    <path d="M7 11.5V4a1 1 0 1 1 2 0v7.5"/><path d="M9 5a1 1 0 1 1 2 0v6.5"/><path d="M11 7a1 1 0 1 1 2 0v4.5"/><path d="M13 9a1 1 0 1 1 2 0v2.5"/><path d="M15 11a1 1 0 1 1 2 0V12"/><path d="M5 16c0 2 1 5 7 5s7-3 7-5"/>
+  </svg>
+  ¡Hola! Soy <span style="color:#38B2AC;">Guillermo</span>
+</h1>
+ ¡Hola! Soy <span style="color:#38B2AC;">Guillermo</span></h1>
 <p align="center">
   <b>Desarrollador web full stack</b> especializado en <b>React</b>, <b>Node.js</b>, <b>MongoDB</b> y <b>Tailwind CSS</b>.<br>
   Me encanta transformar ideas en interfaces modernas, rápidas y funcionales.

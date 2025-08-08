@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](./banner.png) <!-- Reemplaza con la ruta de tu banner -->
+![Banner](./banner.jpg) <!-- Reemplaza con la ruta de tu banner -->
 
 # 👋 Hola, soy Guillermo
 
